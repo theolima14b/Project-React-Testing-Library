@@ -1,7 +1,5 @@
 # Habilidades
 
-Neste projeto, verificamos se voce é capaz de:
-
 * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
 
 * Simular eventos com a React-Testing-Library em testes automatizados.
